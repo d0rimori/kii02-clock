@@ -40,6 +40,7 @@ yarn-error.log*
 .supabase/.db-password
 .supabase/.temp
 .supabase/api-keys.json
+supabase/.temp
 supabase-test.sql
 
 # typescript
